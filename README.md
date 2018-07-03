@@ -11,4 +11,5 @@ Functions examples:
 * array_median:
 
 your_database=# select array_median(array[10,1,3,4.5]);
+
 -> 3.75
